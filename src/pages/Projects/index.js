@@ -5,7 +5,7 @@ import GymBro from "../../assets/gym-bro.png";
 import DnD from "../../assets/dnd-action-calc.png";
 import googleBooks from "../../assets/google-books-lib.png"
 import kirby from "../../assets/kirby-quiz.png";
-import borg from "../../assets/burger.png";
+import indulge from "../../assets/experience.png";
 import notetaker from "../../assets/notetaker.png";
 
 function Projects() {
@@ -28,11 +28,11 @@ function Projects() {
         },
         {
             id : 3,
-            title : "React Google Books Library",
+            title : "Indulge",
             align : true,
-            url : "https://evening-ravine-79529.herokuapp.com/",
-            src : googleBooks,
-            description : "A web app using React.js, Google Books API, and MongoDB to search for books, and save them for future reference."
+            url : "https://experience-indulgence.herokuapp.com/",
+            src : indulge,
+            description : "A web app using React.js, MongoDB, and Cloudinary for private chefs to create their own profiles and sell their services directly to customers."
         },
         {
             id : 4,
@@ -44,11 +44,11 @@ function Projects() {
         },
         {
             id : 5,
-            title : "Eat Da Burger!",
+            title : "React Google Books Library",
             align : true,
-            url : "https://protected-tundra-69894.herokuapp.com/",
-            src : borg,
-            description : "A web app using SQL and Express-Handlebars that can create burgers to consume, and listing which burgers have been consumed."
+            url : "https://evening-ravine-79529.herokuapp.com/",
+            src : googleBooks,
+            description : "A web app using React.js, Google Books API, and MongoDB to search for books, and save them for future reference."
         },
         {
             id : 6,
