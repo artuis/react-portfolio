@@ -2,8 +2,8 @@
 
 ## Technologies used:
 
-React
-Material UI
+* React
+* Material UI
 
 ## Link
 
