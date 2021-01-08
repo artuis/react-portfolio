@@ -10,7 +10,7 @@ import "./style.css";
 
 function App() {
     return (
-            <Router>
+            <Router basename="/react-portfolio">
                 <Switch>
                     <div id="page-wrapper">
                         <Header />
