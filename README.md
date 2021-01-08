@@ -1,5 +1,10 @@
 # React Portfolio
 
+## Technologies used:
+
+React
+Material UI
+
 ## Link
 
-Deployed link [here](https://intense-citadel-35722.herokuapp.com/)
+Deployed link [here](https://artuis.github.io/react-portfolio/)
