@@ -1,5 +1,5 @@
 # React Portfolio
-
+![screenshot of website](public/portfolio.png)
 ## Technologies used:
 
 * React
