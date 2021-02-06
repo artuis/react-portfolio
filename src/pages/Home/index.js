@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Button, Grid, Typography } from '@material-ui/core'
 import { Link } from 'react-router-dom';
-import resume from '../../assets/Resume.pdf';
+import resume from '../../assets/Thomas-An-Resume.pdf';
 
 function Home() {
     return (
